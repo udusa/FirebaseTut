@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "666767128573",
+    "firebase_url": "https://fir-tut-d97ea.firebaseio.com",
+    "project_id": "fir-tut-d97ea",
+    "storage_bucket": "fir-tut-d97ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666767128573:android:064218d5ece8d2a8",
+        "android_client_info": {
+          "package_name": "com.vladlanda.firebasetut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666767128573-i8rpvsrfdjnue10l4k1o4d8f4lua0b4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJ3W3-0asuwFJt4TuS31-irVogfGQX-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
